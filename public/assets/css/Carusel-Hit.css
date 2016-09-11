@@ -1,0 +1,18 @@
+._slide_width{
+  width:25%;
+  float:left;
+  border:none;
+}
+
+._fon-control{
+  background:transparent !important;
+}
+
+._control{
+  color:#aaa;
+}
+
+._r_control{
+  right:0px !important;
+}
+
